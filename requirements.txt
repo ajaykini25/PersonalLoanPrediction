@@ -1,4 +1,3 @@
--cipy @ file:///C:/ci/scipy_1616703433439/work
 absl-py==0.12.0
 appdirs @ file:///home/conda/feedstock_root/build_artifacts/appdirs_1603108395799/work
 argon2-cffi @ file:///C:/ci/argon2-cffi_1596828585465/work
